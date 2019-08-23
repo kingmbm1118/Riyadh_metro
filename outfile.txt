@@ -1,0 +1,478 @@
+[TRACE] 2017-12-08 11:16:16.914 [Thread-14] TaskManager - CompanyX OCR Region: R[986,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 11:17:54.597 [Thread-26] TaskManager - Updating Siemens train info with trainID: NA and color: GRAY, at y coordinate: 24
+[TRACE] 2017-12-08 11:20:23.345 [Thread-247] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 11:20:26.135 [Thread-261] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 11:21:14.199 [Thread-276] TaskManager - Updating Siemens train info with trainID: WN1101 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 11:35:06.297 [Thread-1071] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 11:35:53.856 [Thread-1086] TaskManager - Updating Siemens train info with trainID: WN1116 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 11:47:36.264 [Thread-1742] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 11:48:15.818 [Thread-1774] TaskManager - Updating Siemens train info with trainID: WN1131 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 12:00:04.217 [Thread-2431] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 12:00:43.004 [Thread-2461] TaskManager - Updating Siemens train info with trainID: WN1146 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 12:18:08.803 [Thread-3395] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 12:19:01.738 [Thread-3409] TaskManager - Updating Siemens train info with trainID: WN1201 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 12:33:24.568 [Thread-4220] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 12:33:26.889 [Thread-4238] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 12:34:07.557 [Thread-4243] TaskManager - Updating Siemens train info with trainID: WN1216 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 12:46:41.042 [Thread-4984] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 12:47:23.231 [Thread-5004] TaskManager - Updating Siemens train info with trainID: WN1231 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 13:02:07.882 [Thread-5816] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 13:02:52.030 [Thread-5829] TaskManager - Updating Siemens train info with trainID: WN1246 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 13:16:17.151 [Thread-6573] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 13:16:56.946 [Thread-6591] TaskManager - Updating Siemens train info with trainID: WN1301 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 13:32:01.676 [Thread-7429] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 13:32:39.488 [Thread-7452] TaskManager - Updating Siemens train info with trainID: WN1316 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 13:44:52.628 [Thread-8128] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 13:45:29.893 [Thread-8150] TaskManager - Updating Siemens train info with trainID: WN1331 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 14:02:09.203 [Thread-9052] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 14:03:02.172 [Thread-9069] TaskManager - Updating Siemens train info with trainID: WN1346 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 14:16:01.008 [Thread-9858] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 14:16:57.895 [Thread-9877] TaskManager - Updating Siemens train info with trainID: WN1401 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 14:47:33.762 [Thread-11583] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 14:48:18.186 [Thread-11606] TaskManager - Updating Siemens train info with trainID: WN1431 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 14:58:56.815 [Thread-12244] TaskManager - CompanyX OCR Region: R[986,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 14:59:51.659 [Thread-12261] TaskManager - Updating Siemens train info with trainID: WN1431 and color: GRAY, at y coordinate: 24
+[TRACE] 2017-12-08 15:02:09.324 [Thread-12450] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 15:02:48.353 [Thread-12468] TaskManager - Updating Siemens train info with trainID: WN1446 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 15:28:59.734 [Thread-13994] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 15:29:51.687 [Thread-14016] TaskManager - Updating Siemens train info with trainID: WN1501 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 15:33:02.248 [Thread-14239] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 15:46:49.727 [Thread-15028] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 15:47:58.453 [Thread-15041] TaskManager - Updating Siemens train info with trainID: WN1531 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 15:59:24.975 [Thread-15726] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:00:14.901 [Thread-15740] TaskManager - Updating Siemens train info with trainID: WN1542 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:18:54.637 [Thread-16905] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:19:35.011 [Thread-16919] TaskManager - Updating Siemens train info with trainID: WN1602 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:33:00.645 [Thread-17780] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:33:37.833 [Thread-17795] TaskManager - Updating Siemens train info with trainID: WN1612 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:41:15.544 [Thread-18347] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:42:17.965 [Thread-18362] TaskManager - Updating Siemens train info with trainID: WN1617 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:43:27.083 [Thread-18526] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 16:43:29.416 [Thread-18553] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:44:22.310 [Thread-18556] TaskManager - Updating Siemens train info with trainID: WN1621 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:45:50.777 [Thread-18750] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:46:24.346 [Thread-18764] TaskManager - Updating Siemens train info with trainID: WN1625 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:47:56.452 [Thread-18910] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:48:47.395 [Thread-18941] TaskManager - Updating Siemens train info with trainID: WN1629 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 16:50:48.174 [Thread-19140] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 16:54:38.837 [Thread-19412] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 16:55:42.271 [Thread-19431] TaskManager - Updating Siemens train info with trainID: WN1633 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:01:20.293 [Thread-19829] TaskManager - CompanyX OCR Region: R[982,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:02:01.717 [Thread-19855] TaskManager - Updating Siemens train info with trainID: WN1633 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:06:57.808 [Thread-20176] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:07:36.567 [Thread-20235] TaskManager - Updating Siemens train info with trainID: WN1645 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:09:29.141 [Thread-20370] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:10:06.808 [Thread-20413] TaskManager - Updating Siemens train info with trainID: WN1645 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:12:51.215 [Thread-20666] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 17:15:13.950 [Thread-20884] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:15:58.259 [Thread-20897] TaskManager - Updating Siemens train info with trainID: WN1657 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:17:33.113 [Thread-21058] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 17:24:05.238 [Thread-21469] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:24:42.496 [Thread-21514] TaskManager - Updating Siemens train info with trainID: WN1705 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:27:23.582 [Thread-21773] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:28:02.295 [Thread-21785] TaskManager - Updating Siemens train info with trainID: WN1709 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:29:55.924 [Thread-21957] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:30:37.076 [Thread-21972] TaskManager - Updating Siemens train info with trainID: WN1713 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:35:04.058 [Thread-22302] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:35:45.017 [Thread-22316] TaskManager - Updating Siemens train info with trainID: WN1717 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:38:32.889 [Thread-22527] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:39:11.741 [Thread-22541] TaskManager - Updating Siemens train info with trainID: WN1721 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:42:37.829 [Thread-22813] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:43:14.636 [Thread-22835] TaskManager - Updating Siemens train info with trainID: WN1725 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:53:09.030 [Thread-23523] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:53:55.269 [Thread-23537] TaskManager - Updating Siemens train info with trainID: WN1729 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:55:31.617 [Thread-23703] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:56:09.567 [Thread-23726] TaskManager - Updating Siemens train info with trainID: WN1729 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 17:57:56.285 [Thread-23905] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 17:58:34.687 [Thread-23919] TaskManager - Updating Siemens train info with trainID: WN1729 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:02:43.372 [Thread-24251] TaskManager - CompanyX OCR Region: R[982,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:03:23.551 [Thread-24264] TaskManager - Updating Siemens train info with trainID: WN1729 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:04:46.940 [Thread-24381] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:05:27.930 [Thread-24404] TaskManager - Updating Siemens train info with trainID: WN1745 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:07:01.023 [Thread-24576] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:07:39.119 [Thread-24590] TaskManager - Updating Siemens train info with trainID: WN1749 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:10:42.705 [Thread-24811] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:11:39.214 [Thread-24826] TaskManager - Updating Siemens train info with trainID: WN1753 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:15:34.335 [Thread-25133] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:16:18.196 [Thread-25148] TaskManager - Updating Siemens train info with trainID: WN1757 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:18:33.048 [Thread-25352] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:19:14.854 [Thread-25369] TaskManager - Updating Siemens train info with trainID: WN1801 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:21:53.393 [Thread-25568] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:22:30.590 [Thread-25587] TaskManager - Updating Siemens train info with trainID: WN1805 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:24:12.667 [Thread-25702] TaskManager - CompanyX OCR Region: R[986,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:25:02.746 [Thread-25723] TaskManager - Updating Siemens train info with trainID: WN1805 and color: YELLOW, at y coordinate: 0
+[TRACE] 2017-12-08 18:27:28.999 [Thread-25980] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:28:05.078 [Thread-25992] TaskManager - Updating Siemens train info with trainID: WN1809 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:29:32.289 [Thread-26153] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:30:10.993 [Thread-26168] TaskManager - Updating Siemens train info with trainID: WN1813 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:33:03.918 [Thread-26428] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:33:46.518 [Thread-26446] TaskManager - Updating Siemens train info with trainID: WN1817 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:38:14.176 [Thread-26759] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:38:51.654 [Thread-26772] TaskManager - Updating Siemens train info with trainID: WN1822 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:43:48.035 [Thread-27094] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:44:26.907 [Thread-27110] TaskManager - Updating Siemens train info with trainID: WN1827 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:46:47.376 [Thread-27342] TaskManager - CompanyX OCR Region: R[985,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 18:49:34.330 [Thread-27565] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:50:12.146 [Thread-27616] TaskManager - Updating Siemens train info with trainID: WN1832 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:53:04.797 [Thread-27825] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:53:40.850 [Thread-27842] TaskManager - Updating Siemens train info with trainID: WN1837 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 18:55:05.528 [Thread-27999] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 18:55:44.331 [Thread-28015] TaskManager - Updating Siemens train info with trainID: WN1837 and color: GREEN, at y coordinate: 0
+[TRACE] 2017-12-08 19:01:18.303 [Thread-28445] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:01:58.591 [Thread-28459] TaskManager - Updating Siemens train info with trainID: WN1842 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:04:14.808 [Thread-28683] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:04:42.059 [Thread-28697] TaskManager - Updating Siemens train info with trainID: WN1847 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:10:11.801 [Thread-29072] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:10:47.717 [Thread-29109] TaskManager - Updating Siemens train info with trainID: WN1852 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:27:34.599 [Thread-30019] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:28:13.915 [Thread-30047] TaskManager - Updating Siemens train info with trainID: WN1902 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:31:54.983 [Thread-30357] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 19:37:18.408 [Thread-30714] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:37:57.726 [Thread-30734] TaskManager - Updating Siemens train info with trainID: WN1912 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:41:35.981 [Thread-31031] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:42:16.817 [Thread-31050] TaskManager - Updating Siemens train info with trainID: WN1917 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:45:20.458 [Thread-31242] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:46:00.078 [Thread-31269] TaskManager - Updating Siemens train info with trainID: WN1922 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:47:31.296 [Thread-31397] TaskManager - CompanyX OCR Region: R[984,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:48:13.745 [Thread-31415] TaskManager - Updating Siemens train info with trainID: WN1922 and color: YELLOW, at y coordinate: 0
+[TRACE] 2017-12-08 19:50:36.368 [Thread-31605] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:51:15.590 [Thread-31620] TaskManager - Updating Siemens train info with trainID: WN1922 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 19:58:33.975 [Thread-32074] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 19:59:11.587 [Thread-32088] TaskManager - Updating Siemens train info with trainID: WN1922 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 20:00:38.334 [Thread-32277] TaskManager - CompanyX OCR Region: R[987,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:01:18.629 [Thread-32290] TaskManager - Updating Siemens train info with trainID: WN1922 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 20:04:59.311 [Thread-32575] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:05:36.319 [Thread-32593] TaskManager - Updating Siemens train info with trainID: WN1942 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 20:11:32.024 [Thread-32924] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:12:11.522 [Thread-32965] TaskManager - Updating Siemens train info with trainID: WN1952 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 20:16:48.162 [Thread-33293] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:17:25.207 [Thread-33309] TaskManager - Updating Siemens train info with trainID: WN2002 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 20:31:05.633 [Thread-34071] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 20:31:07.870 [Thread-34087] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 20:37:15.328 [Thread-34462] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:37:53.071 [Thread-34477] TaskManager - Updating Siemens train info with trainID: WN2022 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 20:39:34.814 [Thread-34619] TaskManager - CompanyX OCR Region: R[985,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:40:14.739 [Thread-34647] TaskManager - Updating Siemens train info with trainID: WN2022 and color: YELLOW, at y coordinate: 0
+[TRACE] 2017-12-08 20:47:16.786 [Thread-35076] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 20:47:56.117 [Thread-35106] TaskManager - Updating Siemens train info with trainID: WN2032 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 21:02:44.219 [Thread-35987] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 21:03:22.993 [Thread-36015] TaskManager - Updating Siemens train info with trainID: WN2042 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 21:08:29.629 [Thread-36380] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 21:09:09.413 [Thread-36400] TaskManager - Updating Siemens train info with trainID: WN2052 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 21:10:27.936 [Thread-36512] TaskManager - CompanyX OCR Region: R[985,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 21:11:11.199 [Thread-36535] TaskManager - Updating Siemens train info with trainID: WN2052 and color: GREEN, at y coordinate: 0
+[TRACE] 2017-12-08 21:17:10.424 [Thread-36918] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 21:17:48.023 [Thread-36932] TaskManager - Updating Siemens train info with trainID: WN2102 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 21:26:57.365 [Thread-37495] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 21:27:36.229 [Thread-37509] TaskManager - Updating Siemens train info with trainID: WN2112 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 21:37:47.759 [Thread-38114] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 21:38:26.273 [Thread-38130] TaskManager - Updating Siemens train info with trainID: WN2122 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 22:03:24.314 [Thread-39441] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 22:04:02.559 [Thread-39476] TaskManager - Updating Siemens train info with trainID: WN2146 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 22:15:12.103 [Thread-40117] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 22:15:49.242 [Thread-40135] TaskManager - Updating Siemens train info with trainID: WN2201 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 22:34:20.108 [Thread-41134] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-08 22:46:15.570 [Thread-41796] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 22:46:52.945 [Thread-41818] TaskManager - Updating Siemens train info with trainID: WN2231 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 23:01:00.082 [Thread-42618] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 23:01:41.312 [Thread-42632] TaskManager - Updating Siemens train info with trainID: WN2246 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 23:15:04.150 [Thread-43341] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 23:15:41.477 [Thread-43359] TaskManager - Updating Siemens train info with trainID: WN2301 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-08 23:37:29.641 [Thread-44522] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-08 23:38:09.003 [Thread-44535] TaskManager - Updating Siemens train info with trainID: WN2320 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 00:11:10.216 [Thread-46173] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 00:11:48.743 [Thread-46205] TaskManager - Updating Siemens train info with trainID: WN2355 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 00:45:52.522 [Thread-47930] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 00:46:30.096 [Thread-47944] TaskManager - Updating Siemens train info with trainID: WN0030 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 01:21:54.392 [Thread-49747] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 01:23:32.708 [Thread-49760] TaskManager - Updating Siemens train info with trainID: WN0105 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 02:00:09.025 [Thread-51651] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 02:00:46.838 [Thread-51677] TaskManager - Updating Siemens train info with trainID: WN0140 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 02:36:32.160 [Thread-53499] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 02:37:12.129 [Thread-53521] TaskManager - Updating Siemens train info with trainID: WN0215 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 03:11:18.279 [Thread-55311] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 03:11:55.096 [Thread-55327] TaskManager - Updating Siemens train info with trainID: WN0250 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 03:44:54.356 [Thread-56955] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 03:45:34.469 [Thread-56969] TaskManager - Updating Siemens train info with trainID: WN0325 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 04:17:59.254 [Thread-58615] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 04:18:37.836 [Thread-58630] TaskManager - Updating Siemens train info with trainID: WN0400 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 04:51:17.132 [Thread-60235] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 04:51:56.663 [Thread-60249] TaskManager - Updating Siemens train info with trainID: WN0435 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 05:26:59.445 [Thread-62007] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 05:27:37.040 [Thread-62024] TaskManager - Updating Siemens train info with trainID: WN0510 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 06:01:39.372 [Thread-63756] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 06:02:21.101 [Thread-63777] TaskManager - Updating Siemens train info with trainID: WN0545 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 06:37:29.174 [Thread-65554] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 06:38:08.380 [Thread-65571] TaskManager - Updating Siemens train info with trainID: WN0620 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 07:11:17.941 [Thread-67244] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 07:12:01.196 [Thread-67260] TaskManager - Updating Siemens train info with trainID: WN0655 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 07:44:27.476 [Thread-68879] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 07:45:05.167 [Thread-68909] TaskManager - Updating Siemens train info with trainID: WN0725 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 08:15:22.801 [Thread-70494] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 08:16:10.352 [Thread-70508] TaskManager - Updating Siemens train info with trainID: WN0755 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 08:30:14.042 [Thread-71290] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 08:30:59.454 [Thread-71307] TaskManager - Updating Siemens train info with trainID: WN0815 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 08:54:29.975 [Thread-72482] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 08:55:08.305 [Thread-72533] TaskManager - Updating Siemens train info with trainID: WN0835 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 09:12:44.335 [Thread-73478] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 09:13:20.456 [Thread-73506] TaskManager - Updating Siemens train info with trainID: WN0855 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 09:32:18.258 [Thread-74526] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 09:33:07.249 [Thread-74543] TaskManager - Updating Siemens train info with trainID: WN0915 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 09:50:23.134 [Thread-75489] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 09:51:06.687 [Thread-75514] TaskManager - Updating Siemens train info with trainID: WN0935 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 10:11:19.308 [Thread-76590] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 10:11:56.925 [Thread-76608] TaskManager - Updating Siemens train info with trainID: WN0955 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 10:30:30.006 [Thread-77579] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 10:31:06.833 [Thread-77595] TaskManager - Updating Siemens train info with trainID: WN1015 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 10:51:28.721 [Thread-78689] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 10:52:14.498 [Thread-78704] TaskManager - Updating Siemens train info with trainID: WN1035 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 11:11:16.582 [Thread-79735] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 11:12:00.550 [Thread-79749] TaskManager - Updating Siemens train info with trainID: WN1055 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 11:33:04.622 [Thread-80844] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 11:33:47.667 [Thread-80863] TaskManager - Updating Siemens train info with trainID: WN1115 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 11:52:15.338 [Thread-81866] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 11:52:52.485 [Thread-81879] TaskManager - Updating Siemens train info with trainID: WN1135 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 12:12:15.764 [Thread-82903] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 12:13:01.378 [Thread-82920] TaskManager - Updating Siemens train info with trainID: WN1155 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 12:33:42.264 [Thread-83987] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 12:34:32.383 [Thread-84002] TaskManager - Updating Siemens train info with trainID: WN1215 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 12:52:15.247 [Thread-84974] TaskManager - CompanyX OCR Region: R[984,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 12:53:31.483 [Thread-84995] TaskManager - Updating Siemens train info with trainID: WN1215 and color: GRAY, at y coordinate: 24
+[TRACE] 2017-12-09 12:54:14.270 [Thread-85087] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 12:55:31.911 [Thread-85102] TaskManager - Updating Siemens train info with trainID: WN1235 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 13:12:13.120 [Thread-86048] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 13:12:50.752 [Thread-86062] TaskManager - Updating Siemens train info with trainID: WN1255 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 13:32:38.149 [Thread-87162] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 13:33:21.331 [Thread-87174] TaskManager - Updating Siemens train info with trainID: WN1315 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 13:52:32.166 [Thread-88192] TaskManager - CompanyX OCR Region: R[984,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-09 14:01:41.587 [Thread-88648] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 14:02:30.233 [Thread-88677] TaskManager - Updating Siemens train info with trainID: WN1335 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 14:11:56.109 [Thread-89252] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 14:12:38.693 [Thread-89273] TaskManager - Updating Siemens train info with trainID: WN1355 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 14:31:58.222 [Thread-90257] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 14:32:34.929 [Thread-90286] TaskManager - Updating Siemens train info with trainID: WN1415 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 14:52:57.685 [Thread-91634] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 14:53:36.873 [Thread-91648] TaskManager - Updating Siemens train info with trainID: WN1435 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 15:18:00.386 [Thread-92905] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-09 15:18:03.843 [Thread-92919] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 15:18:46.207 [Thread-92922] TaskManager - Updating Siemens train info with trainID: WN1455 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 15:23:13.375 [Thread-93243] TaskManager - CompanyX OCR Region: R[984,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 15:24:55.399 [Thread-93258] TaskManager - Updating Siemens train info with trainID: WN1455 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 15:32:00.901 [Thread-94243] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 15:32:43.563 [Thread-94256] TaskManager - Updating Siemens train info with trainID: WN1515 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 15:52:30.440 [Thread-95541] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 15:53:06.502 [Thread-95556] TaskManager - Updating Siemens train info with trainID: WN1535 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 16:13:13.367 [Thread-96651] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 16:13:53.097 [Thread-96669] TaskManager - Updating Siemens train info with trainID: WN1555 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 16:32:22.604 [Thread-97766] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 16:33:07.694 [Thread-97795] TaskManager - Updating Siemens train info with trainID: WN1615 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 16:54:00.775 [Thread-98900] TaskManager - CompanyX OCR Region: R[984,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 16:55:31.904 [Thread-98953] TaskManager - Updating Siemens train info with trainID: WN1615 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 16:56:11.898 [Thread-99056] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-09 17:11:39.713 [Thread-99871] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-09 17:11:41.834 [Thread-99896] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 17:12:16.681 [Thread-99897] TaskManager - Updating Siemens train info with trainID: WN1655 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 17:33:22.504 [Thread-101050] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 17:34:02.206 [Thread-101065] TaskManager - Updating Siemens train info with trainID: WN1715 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 17:51:58.919 [Thread-102129] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 17:52:35.841 [Thread-102142] TaskManager - Updating Siemens train info with trainID: WN1735 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 18:13:10.186 [Thread-103233] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 18:13:47.102 [Thread-103253] TaskManager - Updating Siemens train info with trainID: WN1755 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 18:32:21.299 [Thread-104255] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 18:32:58.388 [Thread-104274] TaskManager - Updating Siemens train info with trainID: WN1815 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 18:50:44.735 [Thread-105201] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 18:51:22.840 [Thread-105217] TaskManager - Updating Siemens train info with trainID: WN1835 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 19:10:25.852 [Thread-106208] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 19:11:05.133 [Thread-106222] TaskManager - Updating Siemens train info with trainID: WN1855 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 19:32:10.492 [Thread-107322] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 19:32:48.160 [Thread-107340] TaskManager - Updating Siemens train info with trainID: WN1915 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 19:51:01.630 [Thread-108322] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 19:51:46.185 [Thread-108339] TaskManager - Updating Siemens train info with trainID: WN1935 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 20:10:48.771 [Thread-109340] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 20:11:26.079 [Thread-109354] TaskManager - Updating Siemens train info with trainID: WN1955 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 20:30:10.023 [Thread-110349] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 20:30:46.898 [Thread-110363] TaskManager - Updating Siemens train info with trainID: WN2015 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 20:49:56.420 [Thread-111367] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 20:50:37.212 [Thread-111379] TaskManager - Updating Siemens train info with trainID: WN2035 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 21:14:52.100 [Thread-112667] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 21:15:42.528 [Thread-112682] TaskManager - Updating Siemens train info with trainID: WN2055 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 21:28:54.880 [Thread-113422] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 21:29:32.733 [Thread-113444] TaskManager - Updating Siemens train info with trainID: WN2115 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 21:53:15.076 [Thread-114677] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 21:53:56.711 [Thread-114693] TaskManager - Updating Siemens train info with trainID: WN2135 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 22:15:03.352 [Thread-115788] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 22:15:42.712 [Thread-115802] TaskManager - Updating Siemens train info with trainID: WN2155 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 22:32:44.469 [Thread-116749] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 22:33:25.759 [Thread-116769] TaskManager - Updating Siemens train info with trainID: WN2215 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 22:51:37.797 [Thread-117739] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 22:52:24.362 [Thread-117752] TaskManager - Updating Siemens train info with trainID: WN2235 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 23:08:49.524 [Thread-118660] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 23:09:26.644 [Thread-118680] TaskManager - Updating Siemens train info with trainID: WN2255 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 23:31:45.286 [Thread-119798] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 23:32:22.954 [Thread-119829] TaskManager - Updating Siemens train info with trainID: WN2315 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-09 23:52:53.367 [Thread-120930] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-09 23:53:31.262 [Thread-120947] TaskManager - Updating Siemens train info with trainID: WN2335 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 00:16:19.412 [Thread-122144] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 00:17:05.560 [Thread-122179] TaskManager - Updating Siemens train info with trainID: WN0000 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 00:50:39.435 [Thread-123908] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 00:51:15.776 [Thread-123922] TaskManager - Updating Siemens train info with trainID: XX and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 01:21:43.851 [Thread-125448] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-10 01:21:46.523 [Thread-125465] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 01:22:27.346 [Thread-125481] TaskManager - Updating Siemens train info with trainID: WN0105 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 01:54:18.677 [Thread-127093] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 01:54:55.589 [Thread-127107] TaskManager - Updating Siemens train info with trainID: WN0140 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 02:34:08.845 [Thread-129043] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 02:34:49.454 [Thread-129059] TaskManager - Updating Siemens train info with trainID: WN0215 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 03:04:24.638 [Thread-130563] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 03:05:02.076 [Thread-130577] TaskManager - Updating Siemens train info with trainID: WN0250 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 03:43:15.087 [Thread-132488] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 03:43:54.086 [Thread-132502] TaskManager - Updating Siemens train info with trainID: WN0325 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 04:18:16.970 [Thread-134249] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 04:18:53.928 [Thread-134263] TaskManager - Updating Siemens train info with trainID: WN0400 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 04:51:55.625 [Thread-135904] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 04:52:40.152 [Thread-135927] TaskManager - Updating Siemens train info with trainID: WN0435 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 05:26:32.691 [Thread-137615] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 05:27:12.101 [Thread-137632] TaskManager - Updating Siemens train info with trainID: WN0510 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 06:00:57.155 [Thread-139330] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 06:01:41.579 [Thread-139345] TaskManager - Updating Siemens train info with trainID: WN0545 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 06:35:44.032 [Thread-141062] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 06:36:22.032 [Thread-141082] TaskManager - Updating Siemens train info with trainID: WN0620 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 07:11:18.913 [Thread-142841] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 07:11:59.556 [Thread-142872] TaskManager - Updating Siemens train info with trainID: WN0655 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 07:46:34.680 [Thread-144616] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 07:47:13.360 [Thread-144634] TaskManager - Updating Siemens train info with trainID: WN0730 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 08:20:21.074 [Thread-146319] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 08:21:04.502 [Thread-146350] TaskManager - Updating Siemens train info with trainID: WN0805 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 08:57:26.715 [Thread-148170] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 08:58:06.017 [Thread-148212] TaskManager - Updating Siemens train info with trainID: WN0840 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 09:30:52.438 [Thread-149869] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 09:31:34.896 [Thread-149885] TaskManager - Updating Siemens train info with trainID: WN0915 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 10:05:04.251 [Thread-151578] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 10:05:46.332 [Thread-151601] TaskManager - Updating Siemens train info with trainID: WN0950 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 10:41:55.815 [Thread-153475] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-10 10:41:58.222 [Thread-153489] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 10:42:36.270 [Thread-153491] TaskManager - Updating Siemens train info with trainID: WN1025 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 11:10:13.466 [Thread-154943] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 11:10:56.450 [Thread-154963] TaskManager - Updating Siemens train info with trainID: WN1055 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 11:32:30.220 [Thread-156057] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 11:33:11.017 [Thread-156091] TaskManager - Updating Siemens train info with trainID: WN1115 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 11:52:17.885 [Thread-157140] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 11:52:56.050 [Thread-157159] TaskManager - Updating Siemens train info with trainID: WN1135 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 12:10:25.461 [Thread-158134] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 12:11:10.773 [Thread-158150] TaskManager - Updating Siemens train info with trainID: WN1155 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 12:32:02.077 [Thread-159231] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 12:32:40.850 [Thread-159250] TaskManager - Updating Siemens train info with trainID: WN1215 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 12:50:27.946 [Thread-160189] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 12:51:06.469 [Thread-160208] TaskManager - Updating Siemens train info with trainID: WN1235 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 13:10:44.652 [Thread-161198] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 13:11:21.994 [Thread-161268] TaskManager - Updating Siemens train info with trainID: WN1255 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 13:29:42.120 [Thread-162265] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 13:30:29.459 [Thread-162279] TaskManager - Updating Siemens train info with trainID: WN1315 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 13:52:57.003 [Thread-163448] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 13:53:38.149 [Thread-163462] TaskManager - Updating Siemens train info with trainID: WN1335 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 14:10:19.164 [Thread-164357] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 14:10:57.616 [Thread-164371] TaskManager - Updating Siemens train info with trainID: WN1355 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 14:31:06.336 [Thread-165445] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 14:31:42.349 [Thread-165461] TaskManager - Updating Siemens train info with trainID: WN1415 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 14:50:47.360 [Thread-166460] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 14:51:35.712 [Thread-166477] TaskManager - Updating Siemens train info with trainID: WN1435 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 15:09:52.079 [Thread-167455] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 15:10:30.063 [Thread-167469] TaskManager - Updating Siemens train info with trainID: WN1455 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 15:30:56.616 [Thread-168567] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 15:31:36.547 [Thread-168584] TaskManager - Updating Siemens train info with trainID: WN1515 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 15:54:20.914 [Thread-169801] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 15:54:59.617 [Thread-169821] TaskManager - Updating Siemens train info with trainID: WN1535 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 16:10:53.165 [Thread-170682] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-10 16:10:56.279 [Thread-170703] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 16:11:40.776 [Thread-170716] TaskManager - Updating Siemens train info with trainID: WN1555 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 16:30:05.022 [Thread-171722] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 16:30:42.427 [Thread-171742] TaskManager - Updating Siemens train info with trainID: WN1615 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 16:50:22.679 [Thread-172782] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 16:51:01.801 [Thread-172801] TaskManager - Updating Siemens train info with trainID: WN1635 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 17:11:38.920 [Thread-173890] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 17:12:17.621 [Thread-173908] TaskManager - Updating Siemens train info with trainID: WN1655 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 17:29:50.249 [Thread-174855] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 17:30:27.212 [Thread-174870] TaskManager - Updating Siemens train info with trainID: WN1715 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 17:51:49.152 [Thread-175973] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 17:52:28.238 [Thread-176007] TaskManager - Updating Siemens train info with trainID: WN1735 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 18:04:24.472 [Thread-176638] TaskManager - CompanyX OCR Region: R[985,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 18:05:08.358 [Thread-176664] TaskManager - Updating Siemens train info with trainID: WN1735 and color: GRAY, at y coordinate: 24
+[TRACE] 2017-12-10 18:10:57.293 [Thread-177053] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 18:11:35.547 [Thread-177070] TaskManager - Updating Siemens train info with trainID: WN1755 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 18:31:56.036 [Thread-178198] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 18:32:33.706 [Thread-178222] TaskManager - Updating Siemens train info with trainID: WN1815 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 18:47:22.538 [Thread-179073] TaskManager - CompanyX OCR Region: R[986,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 18:48:03.663 [Thread-179089] TaskManager - Updating Siemens train info with trainID: WN1815 and color: GRAY, at y coordinate: 24
+[TRACE] 2017-12-10 18:51:11.472 [Thread-179280] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 18:51:50.716 [Thread-179318] TaskManager - Updating Siemens train info with trainID: WN1835 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 19:09:29.307 [Thread-180272] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 19:10:08.313 [Thread-180289] TaskManager - Updating Siemens train info with trainID: WN1855 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 19:35:19.830 [Thread-181716] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 19:35:58.610 [Thread-181754] TaskManager - Updating Siemens train info with trainID: WN1915 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 19:50:04.008 [Thread-182509] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 19:50:42.119 [Thread-182524] TaskManager - Updating Siemens train info with trainID: WN1935 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 20:11:09.043 [Thread-183617] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 20:11:51.514 [Thread-183631] TaskManager - Updating Siemens train info with trainID: WN1955 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 20:33:40.563 [Thread-184801] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 20:34:17.929 [Thread-184814] TaskManager - Updating Siemens train info with trainID: WN2015 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 20:50:02.007 [Thread-185697] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 20:50:38.595 [Thread-185710] TaskManager - Updating Siemens train info with trainID: WN2035 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 21:09:58.977 [Thread-186750] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 21:10:36.491 [Thread-186765] TaskManager - Updating Siemens train info with trainID: WN2055 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 21:31:21.656 [Thread-187937] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 21:32:02.928 [Thread-187951] TaskManager - Updating Siemens train info with trainID: WN2115 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 21:49:50.150 [Thread-188901] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 21:50:14.601 [Thread-188913] TaskManager - Updating Siemens train info with trainID: WN2135 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 22:10:10.228 [Thread-189925] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 22:10:47.557 [Thread-189941] TaskManager - Updating Siemens train info with trainID: WN2155 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 22:30:18.824 [Thread-191009] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 22:30:56.445 [Thread-191026] TaskManager - Updating Siemens train info with trainID: WN2215 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 23:00:41.599 [Thread-192555] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 23:01:21.593 [Thread-192570] TaskManager - Updating Siemens train info with trainID: WN2245 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-10 23:34:47.535 [Thread-194245] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-10 23:35:25.133 [Thread-194267] TaskManager - Updating Siemens train info with trainID: WN2320 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 00:11:24.365 [Thread-196070] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-11 00:11:26.563 [Thread-196104] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 00:12:00.810 [Thread-196121] TaskManager - Updating Siemens train info with trainID: WN2355 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 00:47:26.495 [Thread-197912] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 00:49:14.751 [Thread-197927] TaskManager - Updating Siemens train info with trainID: WN0030 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 01:25:12.630 [Thread-199712] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 01:25:50.587 [Thread-199809] TaskManager - Updating Siemens train info with trainID: WN0105 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 01:56:13.195 [Thread-201410] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 01:56:54.816 [Thread-201426] TaskManager - Updating Siemens train info with trainID: WN0140 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 02:31:03.038 [Thread-203190] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-11 03:06:16.114 [Thread-205064] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[TRACE] 2017-12-11 03:06:18.286 [Thread-205077] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 03:07:02.385 [Thread-205081] TaskManager - Updating Siemens train info with trainID: WN0250 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 03:40:44.946 [Thread-206793] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 03:41:22.735 [Thread-206808] TaskManager - Updating Siemens train info with trainID: WN0325 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 04:16:03.438 [Thread-208516] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 04:16:47.353 [Thread-208528] TaskManager - Updating Siemens train info with trainID: WN0400 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 04:51:55.016 [Thread-210276] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 04:52:33.718 [Thread-210303] TaskManager - Updating Siemens train info with trainID: WN0435 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 05:26:27.341 [Thread-1163] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 05:27:10.280 [Thread-1182] TaskManager - Updating Siemens train info with trainID: WN0510 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 06:01:30.471 [Thread-3025] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:02:08.741 [Thread-3043] TaskManager - Updating Siemens train info with trainID: WN0545 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 06:15:17.563 [Thread-3862] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:15:56.046 [Thread-3878] TaskManager - Updating Siemens train info with trainID: WN0600 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 06:28:38.766 [Thread-4674] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:29:21.260 [Thread-4693] TaskManager - Updating Siemens train info with trainID: WN0612 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 06:40:59.617 [Thread-5402] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:41:43.089 [Thread-5427] TaskManager - Updating Siemens train info with trainID: WN0622 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 06:45:06.402 [Thread-5700] TaskManager - CompanyX OCR Region: R[985,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:45:43.319 [Thread-5715] TaskManager - Updating Siemens train info with trainID: WN0622 and color: GRAY, at y coordinate: 24
+[TRACE] 2017-12-11 06:48:13.291 [Thread-5925] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:48:58.532 [Thread-5940] TaskManager - Updating Siemens train info with trainID: WN0632 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 06:59:03.708 [Thread-6664] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 06:59:45.134 [Thread-6679] TaskManager - Updating Siemens train info with trainID: WN0642 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 07:10:11.885 [Thread-7329] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 07:10:48.955 [Thread-7359] TaskManager - Updating Siemens train info with trainID: WN0652 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 07:16:08.285 [Thread-7740] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 07:16:45.326 [Thread-7754] TaskManager - Updating Siemens train info with trainID: XX and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 07:18:10.933 [Thread-7928] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 07:18:49.286 [Thread-7942] TaskManager - Updating Siemens train info with trainID: WN0702 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 07:20:25.105 [Thread-8111] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 07:21:07.856 [Thread-8127] TaskManager - Updating Siemens train info with trainID: WN0707 and color: RED, at y coordinate: 45
+[TRACE] 2017-12-11 11:17:18.492 [Thread-21786] TaskManager - CompanyX OCR Region: R[971,318 130x21]@S(0) E:Y, T:3.0
+[INFO ] 2017-12-11 11:17:59.836 [Thread-21799] TaskManager - Updating Siemens train info with trainID: WN1101 and color: RED, at y coordinate: 45
